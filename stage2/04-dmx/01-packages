@@ -1,0 +1,10 @@
+git
+cmake
+gstreamer1.0-dev
+gstreamer1.0-libav
+gstreamer1.0-plugins-good
+gstreamer-plugins-base1.0-dev
+wiringpi
+jq
+libpng-dev
+ninja-build
