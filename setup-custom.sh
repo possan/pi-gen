@@ -74,5 +74,4 @@ popd
 
 popd
 
-
-./build.sh
+# ./build.sh
