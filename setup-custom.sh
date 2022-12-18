@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash -e
 
 cat > config <<EOL      
 IMG_NAME=Dmxian5
